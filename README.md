@@ -21,42 +21,81 @@
 ```php
 <?php
 
-namespace JoelMale;
+namespace TeamLeaders;
 
-class About extends Me
+class JoelMale extends Developer
 {
     public function getCurrentWorkplace()
     {
         return [
             'workplace' => [
-                'company' => 'Culture Kings',
-                'position' => 'Senior Software Engineer'
-            ]
+                'company' => 'OSE',
+                'website_url' => 'http://ose.com.au/',
+                'position' => 'Team Lead',
+            ],
         ];
     }
 
-    public function getDailyKnowledge()
+    public function getKnowledgeWithConfidenceLevels()
     {
         return [
-            Php::class,
-            Laravel::class,
-            React::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-            Linux::class,
-            MacOS::class
+            [
+                'language' => Php::class,
+                'confidence' => '10/10',
+            ],
+            [
+                'language' => Laravel::class,
+                'confidence' => '9/10',
+            ],
+            [
+                'language' => React::class,
+                'confidence' => '7/10',
+            ],
+            [
+                'language' => ReactNative::class,
+                'confidence' => '4/10',
+            ],
+            [
+                'language' => TailwindCss::class,
+                'confidence' => '9/10',
+            ],
+            [
+                'language' => Aws::class,
+                'confidence' => '9/10',
+            ],
+            [
+                'language' => Linux::class,
+                'confidence' => '8/10',
+            ],
+            [
+                'language' => MacOS::class,
+                'confidence' => '9/10',
+            ],
+            [
+                'language' => Shopify::class,
+                'confidence' => '7/10',
+            ],
         ];
     }
 
-    public function getFutureGoal()
+    public function getFutureGoals()
     {
-        return 'To contribute to open source and make a name for myself.';
+        return [
+            'Be an amazing father',
+            'Contribute to open-source and make a name for myself',
+            'Continue growing as a team lead',
+            'Be better at front end',
+        ];
     }
 
     public function getHobbies()
     {
-        return 'Playing video games and learning new things.';
+        return [
+            'Playing video games',
+            'Learning new things',
+            'Listening to podcasts',
+            'Having diamond hands in hodling crypto'
+        ];
     }
 }
 ```
