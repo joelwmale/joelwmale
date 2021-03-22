@@ -94,7 +94,7 @@ class JoelMale extends Developer
             'Playing video games',
             'Learning new things',
             'Listening to podcasts',
-            'Having diamond hands in hodling crypto'
+            'Having diamond hands in holding crypto'
         ];
     }
 }
