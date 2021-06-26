@@ -25,12 +25,17 @@ namespace TeamLeaders;
 
 class JoelMale extends Developer
 {
-    public function getCurrentWorkplace()
+    public function getCurrentWorkplaces()
     {
         return [
-            'workplace' => [
+	    'workplace_2' => [
+                'company' => 'Convoke Digital',
+                'website_url' => 'https://convoke.com.au/',
+                'position' => 'CEO & Founder',
+            ],
+            'workplace_2' => [
                 'company' => 'OSE',
-                'website_url' => 'http://ose.com.au/',
+                'website_url' => 'https://ose.com.au/',
                 'position' => 'Team Lead',
             ],
         ];
@@ -49,11 +54,11 @@ class JoelMale extends Developer
             ],
             [
                 'language' => React::class,
-                'confidence' => '7/10',
+                'confidence' => '8/10',
             ],
             [
                 'language' => ReactNative::class,
-                'confidence' => '4/10',
+                'confidence' => '5/10',
             ],
             [
                 'language' => TailwindCss::class,
@@ -72,8 +77,8 @@ class JoelMale extends Developer
                 'confidence' => '9/10',
             ],
             [
-                'language' => Shopify::class,
-                'confidence' => '7/10',
+                'language' => WordPress::class,
+                'confidence' => '8/10',
             ],
         ];
     }
@@ -84,7 +89,6 @@ class JoelMale extends Developer
             'Be an amazing father',
             'Contribute to open-source and make a name for myself',
             'Continue growing as a team lead',
-            'Be better at front end',
         ];
     }
 
