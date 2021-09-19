@@ -28,7 +28,7 @@ class JoelMale extends Developer
     public function getCurrentWorkplaces()
     {
         return [
-            'workplace_2' => [
+            'workplace' => [
                 'company' => 'Stead Lane',
                 'website_url' => 'https://steadlane.com.au/',
                 'position' => 'Head of Development',
