@@ -28,15 +28,15 @@ class JoelMale extends Developer
     public function getCurrentWorkplaces()
     {
         return [
-	    'workplace_2' => [
+            'workplace_2' => [
+                'company' => 'Stead Lane',
+                'website_url' => 'https://steadlane.com.au/',
+                'position' => 'Head of Development',
+            ],
+	    'freelance' => [
                 'company' => 'Convoke Digital',
                 'website_url' => 'https://convoke.com.au/',
                 'position' => 'CEO & Founder',
-            ],
-            'workplace_2' => [
-                'company' => 'OSE',
-                'website_url' => 'https://ose.com.au/',
-                'position' => 'Team Lead',
             ],
         ];
     }
@@ -88,7 +88,7 @@ class JoelMale extends Developer
         return [
             'Be an amazing father',
             'Contribute to open-source and make a name for myself',
-            'Continue growing as a team lead',
+            'Create high performing teams',
         ];
     }
 
