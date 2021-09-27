@@ -2,109 +2,7 @@
 
 <p>I'm Joel. A software engineer specialising in backend/ops from <img src="https://image.flaticon.com/icons/svg/323/323367.svg" width="13"/> <b>Brisbane, Australia</b></p>
 
-<p>
-  <img alt="Php" src="https://img.shields.io/badge/-Php-4F5B93?style=flat-square&logo=php&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=amaazon_web_Service&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
-
-```php
-<?php
-
-namespace TeamLeaders;
-
-class JoelMale extends Developer
-{
-    public function getCurrentWorkplaces()
-    {
-        return [
-            'workplace' => [
-                'company' => 'Stead Lane',
-                'website_url' => 'https://steadlane.com.au/',
-                'position' => 'Head of Development',
-            ],
-	    'freelance' => [
-                'company' => 'Convoke Digital',
-                'website_url' => 'https://convoke.com.au/',
-                'position' => 'CEO & Founder',
-            ],
-        ];
-    }
-
-    public function getKnowledgeWithConfidenceLevels()
-    {
-        return [
-            [
-                'language' => Php::class,
-                'confidence' => '10/10',
-            ],
-            [
-                'language' => Laravel::class,
-                'confidence' => '9/10',
-            ],
-            [
-                'language' => React::class,
-                'confidence' => '8/10',
-            ],
-            [
-                'language' => ReactNative::class,
-                'confidence' => '5/10',
-            ],
-            [
-                'language' => TailwindCss::class,
-                'confidence' => '9/10',
-            ],
-            [
-                'language' => Aws::class,
-                'confidence' => '9/10',
-            ],
-            [
-                'language' => Linux::class,
-                'confidence' => '8/10',
-            ],
-            [
-                'language' => MacOS::class,
-                'confidence' => '9/10',
-            ],
-            [
-                'language' => WordPress::class,
-                'confidence' => '8/10',
-            ],
-        ];
-    }
-
-    public function getFutureGoals()
-    {
-        return [
-            'Be an amazing father',
-            'Contribute to open-source and make a name for myself',
-            'Create high performing teams',
-        ];
-    }
-
-    public function getHobbies()
-    {
-        return [
-            'Playing video games',
-            'Learning new things',
-            'Listening to podcasts',
-            'Having diamond hands in hodling crypto'
-        ];
-    }
-}
-```
-
-<h3>Open source projects</h3>
+## Open Source Projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -137,3 +35,14 @@ class JoelMale extends Developer
     <a href="https://twitter.com/joelwmale" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
     <a href="https://www.linkedin.com/in/joel-m-6132298a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+## &#x1f4c8; GitHub Stats
+
+<div style="display: flex;">
+    <a href="https://github.com/joelwmale/joelwmale">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmale&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    </a>
+    <a href="https://github.com/joelwmale/joelwmale">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelwmale&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+    </a>
+</div><br/>
