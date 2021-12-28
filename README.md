@@ -26,16 +26,22 @@
   </thead>
   <tbody>
     <tr>
-	  <td><a href="https://github.com/joelwmale/cogent-js"><b>Cogent-Js</b></a></td>
+	  <td><a href="https://github.com/joelwmale/cogent-js"><b>cogent-js</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/joelwmale/cogent-js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/joelwmale/cogent-js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/joelwmale/cogent-js?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-	  <td><a href="https://github.com/joelwmale/webhook-action"><b>Github Actions: Webhook Action</b></a></td>
+	    <td><a href="https://github.com/joelwmale/webhook-action"><b>Github Actions: Webhook Action</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/joelwmale/webhook-action?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/joelwmale/webhook-action?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/joelwmale/webhook-action?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+	    <td><a href="https://github.com/joelwmale/slack-notification-on-pull-request-action"><b>Github Actions: Slack Notification on Pull Request</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/joelwmale/slack-notification-on-pull-request-action?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/joelwmale/slack-notification-on-pull-request-action?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/joelwmale/slack-notification-on-pull-request-action?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
