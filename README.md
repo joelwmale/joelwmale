@@ -1,15 +1,27 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ahoy there.</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ahoy there! I'm Joel Male
+</h1>
 
-<p>I'm Joel. A software engineer specialising in backend/ops from <img src="https://image.flaticon.com/icons/svg/323/323367.svg" width="13"/> <b>Brisbane, Australia</b></p>
+<h3 align="left">I'm a Backend Engineer, DevOps Guru, Leader and Mentor.</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joelwmale&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Joel Male Github Readme Stats" align="right" />
+
+- :office: &nbsp;Head of Development @ **[SteadLane]**
+- :seedling: &nbsp;Currently learning **[Rust]**
+- :writing_hand: &nbsp;I try to write valuable content on **[blog]**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
 
 ## Open Source Projects
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
+      <td><b>Project</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
     </tr>
   </thead>
   <tbody>
@@ -28,21 +40,13 @@
   </tbody>
 </table>
 
-<h3>Where to find me</h3>
-<p>
-    <a href="https://www.joelmale.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-    <a href="https://github.com/joelwmale" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://twitter.com/joelwmale" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/joel-m-6132298a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+## ✍️ Latest Blog Posts 
+- [My current (2021) dev setup](https://joelmale.com/my-current-2021-development-setup/)
 
-## &#x1f4c8; GitHub Stats
+[Rust]: https://www.rust-lang.org/ "Rust"
+[LinkedIn]: https://www.linkedin.com/in/joelwmale "LinkedIn"
+[Twitter]: https://twitter.com/joelwmale "Twitter"
+[Blog]: https://joelmale.com/ "Blog"
+[SteadLane]: https://steadlane.com.au/ "Stead Lane"
 
-<div style="display: flex;">
-    <a href="https://github.com/joelwmale/joelwmale">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwmale&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-    </a>
-    <a href="https://github.com/joelwmale/joelwmale">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelwmale&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-    </a>
-</div><br/>
+[![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=joelwmale&theme=react-dark)](https://github.com/joelwmale)
