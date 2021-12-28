@@ -8,9 +8,9 @@
 
 - :office: &nbsp;Head of Development @ **[Stead Lane]**
 - :seedling: &nbsp;Currently learning **[Rust]**
-- :writing_hand: &nbsp;I try to write valuable content on **[blog]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :writing_hand: &nbsp;I try to write valuable content on my **[blog]**
+- Let's connect on :bird: **[Twitter]** and :computer: **[LinkedIn]**
+- Visit my **[Website]**
 
 <br>
 
@@ -46,7 +46,8 @@
 [Rust]: https://www.rust-lang.org/ "Rust"
 [LinkedIn]: https://www.linkedin.com/in/joelwmale "LinkedIn"
 [Twitter]: https://twitter.com/joelwmale "Twitter"
-[Blog]: https://joelmale.com/ "Blog"
+[Website]: https://joelmale.com "Website"
+[Blog]: https://joelmale.com/blog "Blog"
 [Stead Lane]: https://steadlane.com.au/ "Stead Lane"
 
 [![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=joelwmale&theme=react-dark)](https://github.com/joelwmale)
