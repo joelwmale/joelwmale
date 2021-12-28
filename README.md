@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=joelwmale&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Joel Male Github Readme Stats" align="right" />
 
-- :office: &nbsp;Head of Development @ **[SteadLane]**
+- :office: &nbsp;Head of Development @ **[Stead Lane]**
 - :seedling: &nbsp;Currently learning **[Rust]**
 - :writing_hand: &nbsp;I try to write valuable content on **[blog]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
@@ -47,6 +47,6 @@
 [LinkedIn]: https://www.linkedin.com/in/joelwmale "LinkedIn"
 [Twitter]: https://twitter.com/joelwmale "Twitter"
 [Blog]: https://joelmale.com/ "Blog"
-[SteadLane]: https://steadlane.com.au/ "Stead Lane"
+[Stead Lane]: https://steadlane.com.au/ "Stead Lane"
 
 [![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=joelwmale&theme=react-dark)](https://github.com/joelwmale)
