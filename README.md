@@ -15,7 +15,7 @@
 <br>
 
 ## Open Source Projects
-<table width="45%">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>Project</b></td>
