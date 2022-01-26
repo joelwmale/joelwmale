@@ -2,20 +2,20 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ahoy there! I'm Joel Male
 </h1>
 
-<h3 align="left">I'm a Backend Engineer, DevOps Guru, Leader and Mentor.</h3>
+<h3 align="left">Leader | Mentor | Backend Engineer | DevOps Guru</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joelwmale&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Joel Male Github Readme Stats" align="right" />
+<a href="https://app.daily.dev/joelwmale"><img src="https://api.daily.dev/devcards/5a568f537f1a4d75b6b96ec2c1dcbaef.png?r=6h0" width="400" alt="Joel Male's Dev Card" align="right"/></a>
 
 - :office: &nbsp;Head of Development @ **[Stead Lane]**
 - :seedling: &nbsp;Currently learning **[Rust]**
 - :writing_hand: &nbsp;I try to write valuable content on my **[blog]**
-- Let's connect on :bird: **[Twitter]** and :computer: **[LinkedIn]**
+- Follow me on :bird: **[Twitter]**
 - Visit my **[Website]**
 
 <br>
 
 ## Open Source Projects
-<table>
+<table width="55%">
   <thead align="center">
     <tr border: none;>
       <td><b>Project</b></td>
@@ -47,6 +47,9 @@
 </table>
 
 ## ✍️ Latest Blog Posts 
+- [8 tips to becoming a better developer](https://joelmale.com/8-tips-to-becoming-a-better-developer/)
+- [Choosing the right software development pathway for you](https://joelmale.com/choosing-the-right-software-development-pathway-for-you/)
+- [Laravel + Intellisense - how to make your IDE work with Laravel](https://joelmale.com/laravel-intellisense-how-to-make-your-ide-work-for-you/)
 - [My current (2021) dev setup](https://joelmale.com/my-current-2021-development-setup/)
 
 [Rust]: https://www.rust-lang.org/ "Rust"
@@ -55,5 +58,3 @@
 [Website]: https://joelmale.com "Website"
 [Blog]: https://joelmale.com/blog "Blog"
 [Stead Lane]: https://steadlane.com.au/ "Stead Lane"
-
-[![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=joelwmale&theme=react-dark)](https://github.com/joelwmale)
