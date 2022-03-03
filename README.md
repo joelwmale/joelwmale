@@ -7,7 +7,7 @@
 - Check out my ✨ **[Website]**
 - :rocket: &nbsp; Looking for an amazing freelance dev? Reach out!
 
-## ✍️📖 Latest Blog Posts 
+## 📖 Latest Blog Posts 
 - [Quick tips: Debuggin with CSS Borders](https://joelmale.com/debugging-with-css/)
 - [How To Be An Efficient Developer](https://joelmale.com/how-to-be-an-efficient-developer/)
 - [The Essentials of eCommerce Website Design](https://joelmale.com/ecommerce-website-design-the-essentials/)
