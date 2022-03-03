@@ -2,10 +2,10 @@
 
 <p align="center"> <a href="https://twitter.com/joelwmale" target="blank"><img src="https://img.shields.io/twitter/follow/joelwmale?logo=twitter&style=for-the-badge" alt="joelwmale" /></a> </p>
 
-- :writing_hand: &nbsp;I try to write valuable content on my **[blog]**
-- Follow me on 🐦 **[Twitter]**
-- Check out my ✨ **[Website]**
-- :rocket: &nbsp; Looking for an amazing freelance dev? Reach out!
+- ✍️ I teach others software dev on my **[blog]**
+- 🐦 Follow me on **[Twitter]**
+- ✨ Check out my **[Website]**
+- 🚀 Looking for an amazing freelance dev? Reach out!
 
 ## 📖 Latest Blog Posts 
 - [Quick tips: Debuggin with CSS Borders](https://joelmale.com/debugging-with-css/)
