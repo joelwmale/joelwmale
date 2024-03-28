@@ -2,10 +2,10 @@
 
 <p align="center"> <a href="https://twitter.com/joelwmale" target="blank"><img src="https://img.shields.io/twitter/follow/joelwmale?logo=twitter&style=for-the-badge" alt="joelwmale" /></a> </p>
 
-- ✍️ I teach others software dev on my **[blog]**
+- ✍️ Teaching developers on my **[blog]**
 - 🐦 Follow me on **[Twitter]**
 - ✨ Check out my **[Website]**
-- 🚀 Looking for an amazing freelance dev? Reach out!
+- 🚀 Looking for an agency to scale your digital? Contact us at **[Pixel]**
 
 ## 📖 Latest Blog Posts 
 - [Quick tips: Debuggin with CSS Borders](https://joelmale.com/debugging-with-css/)
@@ -15,9 +15,8 @@
 
 <br/>
 
-<a href="https://app.daily.dev/joelwmale"><img src="https://api.daily.dev/devcards/5a568f537f1a4d75b6b96ec2c1dcbaef.png?r=6h0" width="400" alt="Joel Male's Dev Card"/></a>
-
 [LinkedIn]: https://www.linkedin.com/in/joelwmale "LinkedIn"
 [Twitter]: https://twitter.com/joelwmale "Twitter"
 [Website]: https://joelmale.com "Website"
+[Pixel]: https://wearepixel.com.au "Pixel"
 [Blog]: https://joelmale.com/blog "Blog"
