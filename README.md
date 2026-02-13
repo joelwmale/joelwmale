@@ -1,22 +1,46 @@
-<h1 align="center">Hi 👋, I'm Joel</h1>
+# Hey, I'm Joel
 
-<p align="center"> <a href="https://twitter.com/joelwmale" target="blank"><img src="https://img.shields.io/twitter/follow/joelwmale?logo=twitter&style=for-the-badge" alt="joelwmale" /></a> </p>
+I build and run internet businesses from Brisbane, Australia. Founder and managing director of **[Pixel](https://wearepixel.com.au)**, and building two products on the side.
 
-- ✍️ Teaching developers on my **[blog]**
-- 🐦 Follow me on **[Twitter]**
-- ✨ Check out my **[Website]**
-- 🚀 Looking for an agency to scale your digital? Contact us at **[Pixel]**
+---
 
-## 📖 Latest Blog Posts 
-- [Quick tips: Debuggin with CSS Borders](https://joelmale.com/debugging-with-css/)
-- [How To Be An Efficient Developer](https://joelmale.com/how-to-be-an-efficient-developer/)
-- [The Essentials of eCommerce Website Design](https://joelmale.com/ecommerce-website-design-the-essentials/)
-- [10 Things I Wish I Knew When I Was A Junior Developer](https://joelmale.com/10-things-i-wish-i-knew-when-i-was-a-junior-developer/)
+### What I'm building
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://wearepixel.com.au">Pixel</a></strong><br><br>
+      Digital agency for fast-paced eCommerce teams. Shopify, Laravel, and custom builds.
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://rethread.com.au">Rethread</a></strong><br><br>
+      Second-hand school uniform marketplace for every school in Australia. Saving families money, keeping uniforms out of landfill.
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://pulsewise.app">Pulsewise</a></strong><br><br>
+      All-in-one website monitoring. Uptime, SSL, DNS, broken links, performance — one dashboard to replace them all.
+    </td>
+  </tr>
+</table>
 
-[LinkedIn]: https://www.linkedin.com/in/joelwmale "LinkedIn"
-[Twitter]: https://twitter.com/joelwmale "Twitter"
-[Website]: https://joelmale.com "Website"
-[Pixel]: https://wearepixel.com.au "Pixel"
-[Blog]: https://joelmale.com/blog "Blog"
+---
+
+### Tech
+
+`Laravel` `Livewire` `Alpine.js` `Tailwind CSS` `Shopify` `PHP`
+
+---
+
+### Writing
+
+- [How I updated 10 Laravel projects to 12.x without nuking any revenue](https://joelmale.com/blog/how-i-updated-10-laravel-projects-to-12x-without-nuking-any-revenue)
+- [Being your own boss as a developer](https://joelmale.com/blog/being-your-own-boss-as-a-developer)
+- [Running a successful digital agency](https://joelmale.com/blog/running-a-succesful-digital-agency)
+
+More at [joelmale.com/blog](https://joelmale.com/blog)
+
+---
+
+### Connect
+
+[Twitter/X](https://x.com/joelwmale) · [LinkedIn](https://www.linkedin.com/in/joelwmale) · [Blog](https://joelmale.com)
