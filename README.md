@@ -10,7 +10,7 @@ I build and run internet businesses from Brisbane, Australia. Founder and managi
   <tr>
     <td width="33%" valign="top">
       <strong><a href="https://wearepixel.com.au">Pixel</a></strong><br><br>
-      Digital agency for fast-paced eCommerce teams. Shopify, Laravel, and custom builds.
+      We build digital infrastructure for businesses where failure isn't an option
     </td>
     <td width="33%" valign="top">
       <strong><a href="https://rethread.com.au">Rethread</a></strong><br><br>
